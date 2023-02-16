@@ -1,0 +1,22 @@
+{
+  "name": "single-socket",
+  "version": "1.0.0",
+  "description": "One socket connection for all browser tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/famemonsterx/single-socket.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "Daniil Ustiantsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/famemonsterx/single-socket/issues"
+  },
+  "homepage": "https://github.com/famemonsterx/single-socket#readme"
+}
